@@ -1,5 +1,5 @@
 var inherits = require('inherits');
-var EventEmitter = require('events').EventEmitter;
+var EventEmitter = require('eventemitter2').EventEmitter2;;
 
 module.exports = Queue;
 

@@ -17,6 +17,7 @@
     "url": "https://github.com/jessetane/queue.git"
   },
   "dependencies": {
+    "eventemitter2": "^0.4.14",
     "inherits": "~2.0.0"
   },
   "devDependencies": {
